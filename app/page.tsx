@@ -24,7 +24,7 @@ import Image from "next/image";
 import avatIcone from "@/public/images/avatar.png";
 import { FiEdit3, FiTrash2 } from "react-icons/fi";
 
-function SearchIcon(props) {
+function SearchIcon(props: any) {
   return (
     <svg
       {...props}
@@ -343,7 +343,7 @@ export default function Component() {
   );
 }
 
-function BrainIcon(props) {
+function BrainIcon(props: any) {
   return (
     <svg
       {...props}
@@ -370,7 +370,7 @@ function BrainIcon(props) {
   );
 }
 
-function CalendarIcon(props) {
+function CalendarIcon(props: any) {
   return (
     <svg
       {...props}
@@ -392,7 +392,7 @@ function CalendarIcon(props) {
   );
 }
 
-function CircleHelpIcon(props) {
+function CircleHelpIcon(props: any) {
   return (
     <svg
       {...props}
@@ -413,7 +413,7 @@ function CircleHelpIcon(props) {
   );
 }
 
-function CodeIcon(props) {
+function CodeIcon(props: any) {
   return (
     <svg
       {...props}
@@ -433,7 +433,7 @@ function CodeIcon(props) {
   );
 }
 
-function FileTextIcon(props) {
+function FileTextIcon(props: any) {
   return (
     <svg
       {...props}
@@ -456,7 +456,7 @@ function FileTextIcon(props) {
   );
 }
 
-function HeartIcon(props) {
+function HeartIcon(props: any) {
   return (
     <svg
       {...props}
@@ -475,7 +475,7 @@ function HeartIcon(props) {
   );
 }
 
-function KanbanIcon(props) {
+function KanbanIcon(props: any) {
   return (
     <svg
       {...props}
@@ -496,7 +496,7 @@ function KanbanIcon(props) {
   );
 }
 
-function LayoutGridIcon(props) {
+function LayoutGridIcon(props: any) {
   return (
     <svg
       {...props}
@@ -518,7 +518,7 @@ function LayoutGridIcon(props) {
   );
 }
 
-function LinkIcon(props) {
+function LinkIcon(props: any) {
   return (
     <svg
       {...props}
@@ -538,7 +538,7 @@ function LinkIcon(props) {
   );
 }
 
-function MessageCircleIcon(props) {
+function MessageCircleIcon(props: any) {
   return (
     <svg
       {...props}
@@ -557,7 +557,7 @@ function MessageCircleIcon(props) {
   );
 }
 
-function MessageSquareIcon(props) {
+function MessageSquareIcon(props: any) {
   return (
     <svg
       {...props}
@@ -576,7 +576,7 @@ function MessageSquareIcon(props) {
   );
 }
 
-function PlayIcon(props) {
+function PlayIcon(props: any) {
   return (
     <svg
       {...props}
@@ -595,7 +595,7 @@ function PlayIcon(props) {
   );
 }
 
-function PlugIcon(props) {
+function PlugIcon(props: any) {
   return (
     <svg
       {...props}
@@ -617,7 +617,7 @@ function PlugIcon(props) {
   );
 }
 
-function SettingsIcon(props) {
+function SettingsIcon(props: any) {
   return (
     <svg
       {...props}
@@ -637,7 +637,7 @@ function SettingsIcon(props) {
   );
 }
 
-function SquareCheckIcon(props) {
+function SquareCheckIcon(props: any) {
   return (
     <svg
       {...props}
@@ -657,7 +657,7 @@ function SquareCheckIcon(props) {
   );
 }
 
-function TagIcon(props) {
+function TagIcon(props: any) {
   return (
     <svg
       {...props}
@@ -677,7 +677,7 @@ function TagIcon(props) {
   );
 }
 
-function UserIcon(props) {
+function UserIcon(props: any) {
   return (
     <svg
       {...props}
@@ -697,7 +697,7 @@ function UserIcon(props) {
   );
 }
 
-function UsersIcon(props) {
+function UsersIcon(props: any) {
   return (
     <svg
       {...props}
