@@ -334,26 +334,6 @@ export default function Component() {
                   </div>
                 </td>
               </tr>
-              <tr><td className="h-[5px]"></td></tr>
-              <tr className="h-[88px] bg-white font-bold">
-                <td dir="ltr" className="py-2 px-4 rounded-s-[17px]  mb-2">
-                </td>
-                <td className="py-2 px-4 mb-2"></td>
-                <td dir="ltr" className="rounded-r-[17px] mb-2 ">
-                  <div className="flex justify-center gap-10">
-                  </div>
-                </td>
-              </tr>
-              <tr><td className="h-[5px]"></td></tr>
-              <tr className="h-[88px] bg-white font-bold">
-                <td dir="ltr" className="py-2 px-4 rounded-s-[17px]  mb-2">
-                </td>
-                <td className="py-2 px-4 mb-2"></td>
-                <td dir="ltr" className="rounded-r-[17px] mb-2 ">
-                  <div className="flex justify-center gap-10">
-                  </div>
-                </td>
-              </tr>
               
             </tbody>
           </table>
